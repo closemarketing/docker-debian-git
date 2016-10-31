@@ -1,5 +1,5 @@
 # debian-git
-A minimal docker container with debian and git.
+A minimal docker container with debian, git and git-ftp.
 
 [![layers](https://badge.imagelayers.io/samueldebruyn/debian-git:latest.svg "layers")](https://imagelayers.io/?images=samueldebruyn/debian-git:latest)
 
